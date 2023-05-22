@@ -4,4 +4,10 @@ karan pawar
 ajay pawar
 
 
+<<<<<<< HEAD
 abcd
+=======
+
+
+123456
+>>>>>>> dev
