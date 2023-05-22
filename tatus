@@ -1,0 +1,42 @@
+[33mcommit 508807fc9c8d3b3bb223e72cd556da326eea1d27[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c08c3f2 b1ad52a
+Author: Rohit Pawar <rohitp463@gmail.com>
+Date:   Mon May 22 17:07:55 2023 +0530
+
+    dummy add
+
+[33mcommit b1ad52a03fda55737b4317ca65f61674dd6748da[m[33m ([m[1;32mfeature1[m[33m, [m[1;32mdev[m[33m)[m
+Author: Rohit Pawar <rohitp463@gmail.com>
+Date:   Mon May 22 16:14:53 2023 +0530
+
+    created new hive script of table healthinfra
+
+[33mcommit bcce1a4cd16d31f6e69dd0b6a131092232116f82[m
+Author: Rohit Pawar <rohitp463@gmail.com>
+Date:   Sun May 21 18:16:10 2023 +0530
+
+    1234 added
+
+[33mcommit c08c3f21b27dd7df701115ddaab046b7358b1de1[m
+Author: Rohit Pawar <rohitp463@gmail.com>
+Date:   Sun May 21 17:47:20 2023 +0530
+
+    abcd added
+
+[33mcommit 21f6f4d2a28c9c9f72c60fbddbe3f07a48e125ea[m
+Author: Karan Ajay <rohitp463@gmail.com>
+Date:   Wed May 10 16:38:25 2023 +0530
+
+    added new line in file1
+
+[33mcommit 439ed386dfe73fa88b6b52e89b7182a19e4d7412[m
+Author: Karan Ajay <rohitp463@gmail.com>
+Date:   Tue May 9 22:54:04 2023 +0530
+
+    four lines added
+
+[33mcommit ae1a0d21c445ec98a710439b584601e3e4f9bc4f[m
+Author: Karan Ajay <rohitp463@gmail.com>
+Date:   Mon May 8 23:03:42 2023 +0530
+
+    first commit
