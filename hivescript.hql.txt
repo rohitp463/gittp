@@ -1,0 +1,17 @@
+echo "droping table if exists table name-healthinfa";
+
+drop table if exists healthinfra;
+
+echo "creating new table and table name -healthinfra";
+
+
+create table healthinfra(id int,nameoforg string,investment int,city string)
+row format delimited
+fields terminated by '|'
+lines terminated by '\n'
+stored as textfile
+location '/healthinfra';
+
+echo "loading data from lfs to hive table "
+
+load data local inpath '/home/gopalkrishna/Rohit/empdata.log' into table healthinfra;
