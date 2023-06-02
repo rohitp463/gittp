@@ -1,0 +1,1 @@
+hdfs dfs -cat /home/gopalkrishna/empdata.log
